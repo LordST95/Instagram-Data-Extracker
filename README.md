@@ -14,5 +14,5 @@ and ur story's visitors.
 I know these files need some refactoring but for now I have not chance to do so.
 
 working with them is easy, u should install instagram_private_api
-with pip and then fill user_name and password in for example in InstaAnalyzer.py then
+with pip and then fill user_name and password for example in InstaAnalyzer.py then
 run the code with python, that's it :))
